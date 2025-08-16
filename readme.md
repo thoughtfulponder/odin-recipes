@@ -1,3 +1,3 @@
-i will be creating a webpage which will content different types of delicious recipes
+i have created a multiple pages website using html which features different types of recipes
 
-i will be using html tags to structure this webpage
+i use html tags to structure the website.
