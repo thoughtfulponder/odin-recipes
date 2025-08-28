@@ -1,10 +1,59 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #ECFFE6;
+  font-family: verdana, sans-serif;
 }
 
-a {
+h1, h2, h3, p, li, .home {
+  color: #399918;
+  margin: .5rem 1rem;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h3 {
+  color: #FFAAAA;
+}
+
+a, .home {
   display: block;
+  color: #FF7777;
+  text-decoration: none;
+}
+
+.home {
+  text-transform: uppercase;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted #399918;
+  width: 20px;
+  margin: 2rem auto;
+}
+
+strong {
+  color: #4E342E;
+}
+
+p {
+  color: #5D4037;
+}
+
+li {
+  color: #6D4C41;
+}
+
+p, li {
+  font-size: 1rem;
+}
+
+.food-heading-image {
+  max-width: 400px;
+  width: 100%;
 }
 
 .food-image {
